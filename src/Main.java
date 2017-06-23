@@ -8,6 +8,6 @@ public class Main {
        // System.out.println("Hello World!");
         mainForm frames = new mainForm();
         frames.setVisible(true);
-        System.out.print("ok");
+        System.out.print("oksss");
     }
 }
